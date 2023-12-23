@@ -56,7 +56,7 @@ Any other styling is possible. More CSS style contributions and forks are welcom
 
 ### Reference
 
-[Github](http://github.com/elipapa.
+http://github.com/elipapa
 
 ### License
 
