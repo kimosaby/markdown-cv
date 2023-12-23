@@ -56,8 +56,8 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2023`
+Newton Sir I, De. 
 
 `1669`
 Lectiones opticæ.
@@ -79,7 +79,7 @@ __Royal Mint__, London
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
+__Data Scientist__, AstraZeneca
 
 
 
