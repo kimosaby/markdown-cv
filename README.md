@@ -56,7 +56,7 @@ Any other styling is possible. More CSS style contributions and forks are welcom
 
 ### Reference
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+[Github](http://github.com/elipapa.
 
 ### License
 
