@@ -2,11 +2,11 @@
 layout: cv
 title: Chang Kim's CV
 ---
-# Isaac Newton
+# Chang Kim
 Bioinformatician, Data Scientist.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="chang.kim@astrazeneca.com">chang.kim@astrazeneca.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
