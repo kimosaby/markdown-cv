@@ -3,7 +3,7 @@ layout: cv
 title: Chang Kim's CV
 ---
 # Chang Kim
-Bioinformatician, Data Scientist.
+Bioinformatician/Data Scientist.
 
 <div id="webaddress">
 <a href="chang.kim@astrazeneca.com">chang.kim@astrazeneca.com</a>
@@ -26,18 +26,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1995-2000`
+`August 1995 - August 2000`
 __PhD, Louisiana State University, Baton Rouge, LA, USA.__
 
 `March 1990 - Feb. 1994`
 __BS, Kangwon National University, South Korea__
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
