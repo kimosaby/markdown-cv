@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chang Kim's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Bioinformatician, Data Scientist.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
