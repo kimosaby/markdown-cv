@@ -26,20 +26,11 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1995-2000`
+__PhD, Louisiana State University, Baton Rouge, LA, USA.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`March 1990 - Feb. 1994`
+__BS, Kangwon National University, South Korea__
 
 ## Awards
 
@@ -47,8 +38,6 @@ __Trinity College, Cambridge__
 President, *Royal Society*, London, UK
 
 Associate, *French Academy of Science*, Paris, France
-
-
 
 ## Publications
 
