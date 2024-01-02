@@ -12,7 +12,9 @@ Bioinformatician/Data Scientist.
 
 ## Currently
 
-Standing on the shoulders of giants
+As a Senior Data Scientist at Data Science & Quantitative Biology, Discovery Science, AstraZeneca, I am responsible for analyzing high-throughput screen data from Target IDs & Validation projects across multiple therapeutic areas, including oncology, R&I, and CVRM. I have delivered data analysis packages that have enabled informed decision-making for multiple TiTv projects.
+
+This role has allowed me to leverage my expertise in data science and quantitative biology to contribute to the drug target discoivery for life-saving medicines. I have also had the opportunity to work with a team of web-scientists who share my passion for innovation and excellence.
 
 ### Specialized in
 
@@ -45,12 +47,6 @@ Newton Sir I, De.
 Lectiones opticæ.
 
 etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
 
 ## Occupation
 
