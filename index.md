@@ -26,10 +26,10 @@ Drug target discovery based on CRISPR-Cas9 screen experiment, Multi-omics Data I
 
 ## Education
 
-`August 1995 - August 2000`
+`1995 - 2000`
 __PhD__, Louisiana State University, Baton Rouge, LA, USA
 
-`March 1990 - Feb. 1994`
+`1990 - 1994`
 __BS__, Kangwon National University, South Korea
 
 ## Publications
