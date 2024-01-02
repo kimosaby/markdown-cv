@@ -18,7 +18,7 @@ This role has allowed me to leverage my expertise in data science and quantitati
 
 ### Specialized in
 
-Omics data analysis (e.g., mutation calling and Copy number analysis using DNA sequencing; Differentail expression, alternative splicing, and functional/pathway enrichment analysis using RNA sequencing), HIgh-throughput phenotyic screen data analysis based on CRISPR-Cas9 scrrening experiment, Machine learning algorithm (AutoEncoder, Umap, tSNE, PCA, Gaussian Process).
+Omics data analysis (e.g., mutation calling and Copy number analysis using DNA sequencing; Differentail expression, alternative splicing, and functional/pathway enrichment analysis using RNA sequencing), HIgh-throughput phenotyic screen data analysis based on CRISPR-Cas9 scrrening experiment, Machine learning algorithm (e.g., AutoEncoder, Gaussian Process, UMAP, tSNE, PCA).
 
 ### Research interests
 
