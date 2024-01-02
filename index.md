@@ -18,13 +18,11 @@ This role has allowed me to leverage my expertise in data science and quantitati
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Omics data analysis (mutation calling using DNA sequencing; DES & alternative splicing using RNA sequencing), HIgh-throughput phenotyic screen data analysis, Machine learning algorithm (AutoEncoder, Umap, tSNE, PCA, Gaussian Process).
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Drug target discovery based on CRISPR-Cas9 screen experiment, Multi-omics Data Integration, Interpretation, and Its Application.
 
 ## Education
 
